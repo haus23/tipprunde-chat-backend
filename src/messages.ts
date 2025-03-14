@@ -3,7 +3,7 @@ import { mutation, query } from "./_generated/server";
 
 export const recent = query({
   handler: async (ctx) => {
-    return await ctx.db.query("messages").take(10);
+    return await ctx.db.query("messages").order("desc").take(10);
   },
 });
 
