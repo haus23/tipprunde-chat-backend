@@ -8,6 +8,8 @@
     "build": "convex deploy"
   },
   "dependencies": {
+    "@auth/core": "0.37.0",
+    "@convex-dev/auth": "^0.0.80",
     "convex": "^1.20.0"
   },
   "devDependencies": {
