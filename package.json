@@ -1,10 +1,17 @@
 {
+  "name": "tipprunde-chat-backend",
+  "license": "MIT",
+  "version": "0.0.0",
   "type": "module",
+  "scripts": {
+    "dev": "convex dev",
+    "build": "convex deploy"
+  },
   "dependencies": {
     "convex": "^1.20.0"
   },
-  "packageManager": "pnpm@10.6.3",
   "devDependencies": {
     "@types/node": "^22.13.10"
-  }
+  },
+  "packageManager": "pnpm@10.6.3"
 }
