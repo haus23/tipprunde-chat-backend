@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.1.0
+
+[compare changes](https://github.com/haus23/tipprunde-chat-backend/compare/v0.0.1...v0.1.0)
+
+### 🚀 Enhancements
+
+- Add and configure convex-auth. ([33713a9](https://github.com/haus23/tipprunde-chat-backend/commit/33713a9))
+- Implement OTP authentication. ([f82c6d1](https://github.com/haus23/tipprunde-chat-backend/commit/f82c6d1))
+
+### ❤️ Contributors
+
+- Micha Buchholz <micha@haus23.net>
+
 ## v0.0.1
 
 
