@@ -1,6 +1,10 @@
 # Changelog
 
 
+## v0.2.0
+
+[compare changes](https://github.com/haus23/tipprunde-chat-backend/compare/v0.1.0...v0.2.0)
+
 ## v0.1.0
 
 [compare changes](https://github.com/haus23/tipprunde-chat-backend/compare/v0.0.1...v0.1.0)

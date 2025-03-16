@@ -1,7 +1,7 @@
 {
   "name": "tipprunde-chat-backend",
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "module",
   "scripts": {
     "dev": "convex dev",
@@ -11,6 +11,7 @@
     "@auth/core": "0.37.0",
     "@convex-dev/auth": "^0.0.80",
     "convex": "^1.20.0",
+    "convex-helpers": "0.1.10",
     "oslo": "^1.2.1",
     "postmark": "^4.0.5"
   },
