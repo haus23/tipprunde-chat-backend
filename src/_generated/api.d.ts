@@ -14,6 +14,7 @@ import type {
   FunctionReference,
 } from "convex/server";
 import type * as auth from "../auth.js";
+import type * as flags from "../flags.js";
 import type * as http from "../http.js";
 import type * as messages from "../messages.js";
 import type * as otp_postmark from "../otp/postmark.js";
@@ -29,6 +30,7 @@ import type * as users from "../users.js";
  */
 declare const fullApi: ApiFromModules<{
   auth: typeof auth;
+  flags: typeof flags;
   http: typeof http;
   messages: typeof messages;
   "otp/postmark": typeof otp_postmark;

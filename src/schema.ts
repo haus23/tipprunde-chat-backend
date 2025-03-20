@@ -8,4 +8,8 @@ export default defineSchema({
     body: v.string(),
     user: v.string(),
   }),
+  flags: defineTable({
+    key: v.string(),
+    value: v.boolean(),
+  }),
 });
