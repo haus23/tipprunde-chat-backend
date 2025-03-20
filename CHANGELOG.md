@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.3.0
+
+[compare changes](https://github.com/haus23/tipprunde-chat-backend/compare/v0.2.0...v0.3.0)
+
+### 🚀 Enhancements
+
+- Add feature flags table. ([2a2773a](https://github.com/haus23/tipprunde-chat-backend/commit/2a2773a))
+
+### ❤️ Contributors
+
+- Micha Buchholz <micha@haus23.net>
+
 ## v0.2.0
 
 [compare changes](https://github.com/haus23/tipprunde-chat-backend/compare/v0.1.0...v0.2.0)
