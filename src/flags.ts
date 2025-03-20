@@ -9,6 +9,6 @@ export const getAll = query({
     if (apiKey !== process.env.API_KEY) {
       throw new ConvexError("Unauthorized");
     }
-    await ctx.db.query("flags").collect();
+    return await ctx.db.query("flags").collect();
   },
 });
