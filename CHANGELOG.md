@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.3.1
+
+[compare changes](https://github.com/haus23/tipprunde-chat-backend/compare/v0.3.0...v0.3.1)
+
+### 🩹 Fixes
+
+- Missing return statement. ([67dabee](https://github.com/haus23/tipprunde-chat-backend/commit/67dabee))
+
+### ❤️ Contributors
+
+- Micha Buchholz <micha@haus23.net>
+
 ## v0.3.0
 
 [compare changes](https://github.com/haus23/tipprunde-chat-backend/compare/v0.2.0...v0.3.0)
